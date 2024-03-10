@@ -1,0 +1,6 @@
+.btn-info:hover{background-color: rgb(54, 49, 14)}
+canvas{animation-name: tvarita; animation-duration: 4s; animation-iteration-count: infinite;}
+@keyframes tvarita{
+    from{box-shadow: 1px 1px 30px rgba(199, 253, 112, 0.9);}
+    to{box-shadow: 1px 1px 30px rgb(252, 252, 34);}
+}
